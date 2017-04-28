@@ -1,4 +1,4 @@
 # WATInformation
 First Android App
 
-Pierwsza aplikacja z jednym layout'em, activity z kursu Udacity. 
+App for Udacity course, called Single Screen App. 
