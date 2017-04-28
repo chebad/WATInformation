@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">WAT Information</string>
+    <string name="library_image_description">Library image.</string>
+    <string name="logo_wat_image_description">Logo WAT.</string>
+    <string name="logo_library_wat_descrition">Logo Library WAT.</string>
+    <string name="wat_library">WAT LIBRARY</string>
+    <string name="none_description">None.</string>
+    <string name="adress_library">ul. Gen. Sylwestra Kaliskiego 19,  00-906 Warszawa</string>
+    <string name="phone_number_library">261 837 052</string>
+    <string name="email_library">bg@wat.edu.pl</string>
+    <string name="webpage_library">http://www.bg.wat.edu.pl</string>
+    <string name="open_schedule_library">Monday - Friday  8:00 - 19:00\n\nSaturday               9:00 - 16:00\n\nSunday                  Closed</string>
 </resources>
